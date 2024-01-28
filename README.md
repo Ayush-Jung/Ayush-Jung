@@ -19,11 +19,11 @@
 
 Wanna know more about me:
 
-- 🔭 I’m currently working on a bunch of mobile/backend projects
-- 🌱 I’m currently learning everything i can
-- 👯 I’m looking to collaborate on some cool project
-- 😄 Pronouns: He/His
-- ⚡ In my free time I solve challenges from HackerRank
+- 🔭 I’m currently working on a bunch of mobile/backend projects.
+- 🌱 I’m currently learning everything I can.
+- 👯 I’m looking to collaborate on some cool project.
+- 😄 Pronouns: He/His.
+
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
